@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Connor McDavid",
+    "team": "Edmonton Oilers",
+    "rating": 98,
+    "cap_hit": 12500000
+  },
+  {
+    "name": "Auston Matthews",
+    "team": "Toronto Maple Leafs",
+    "rating": 96,
+    "cap_hit": 11640000
+  },
+  {
+    "name": "Nathan MacKinnon",
+    "team": "Colorado Avalanche",
+    "rating": 95,
+    "cap_hit": 12600000
+  },
+  {
+    "name": "Sidney Crosby",
+    "team": "Pittsburgh Penguins",
+    "rating": 92,
+    "cap_hit": 8700000
+  }
+]
